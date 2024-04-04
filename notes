@@ -1,0 +1,7 @@
+Git 
+.cd frontend
+git remote add origin
+git branch -m main 
+git commit -m "HTML BASICS"
+git push origin -u main(this is to push latest changes to remote repo)
+git add . (to add entire file)
